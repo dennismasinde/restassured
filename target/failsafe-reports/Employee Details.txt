@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Employee Details
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.266 s <<< FAILURE! - in Employee Details
+Employee Details.Get the details of employee  Time elapsed: 0.266 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to resolve the class file version of the current VM: Unknown Java version: 0
+
